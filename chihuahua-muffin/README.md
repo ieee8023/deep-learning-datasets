@@ -1,2 +1,2 @@
 
-![](chihuahua-muffin/full.jpg)
+![](full.jpg)
